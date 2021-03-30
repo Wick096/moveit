@@ -1,0 +1,71 @@
+[
+    {
+        "type":"body",
+        "description":"Estique um de seus braços com a palma da mão para frente e puxe os para cima por 15 segundos",
+        "amount":80
+
+    },
+        
+    {
+        "type":"body",
+        "description":"Estique  seu braço contra o peito e puxe-o utilizando o outro braço por 10 segundos",
+        "amount":60
+    },
+    {
+        "type":"body",
+        "description":"Puxe seu pesxoço com a ajuda da mão para direita e para a esquerda durante 19 segundos",
+        "amount":70
+    },
+
+    {
+        "type":"body",
+        "description":"Com as duas mãos na parte de trás da cabeça, leve-a para baixo, alogando a parte de trás por 10 segundos",
+        "amount":60
+    },
+
+    {
+        "type":"body",
+        "description":"Cruze as pernas com as mãos esticadas em direção ao chão.Repita o movimento por 15 segundos",
+        "amount":100
+    },
+
+    {
+        "type":"body",
+        "description":"Sentado , abra as pernas e tente encostar as palmas no chão,repita 3 vezes por 5 segundos",
+        "amount":80
+    },
+
+    {
+        "type":"body",
+        "description":"Puxe o joelho de encontro ao peito e segure ,troque de perna após 18 segundos",
+        "amount":50
+    },
+    {
+        "type":"body",
+        "description":"Sentado, cruze uma perna e incline seu tronco para frente,troque de perna após 10 segundos",
+        "amount":80
+    },
+
+    {
+        "type":"eye",
+        "description":"Sentado,feche os olhos e cubra-os com as palmas das mão durante 2 segundos.",
+        "amount":90
+    },
+    {
+        "type":"eye",
+        "description":"Em algum ambiente aberto , olhe o mais longe que puder durante 3s.",
+        "amount":140
+    },
+
+    {
+        "type":"eye",
+        "description":"Usando os polegares ,massagei a area abaixo das sombrancelhas em movimentos cirulares durantes 5 segundos",
+        "amount":70
+    },
+
+    {
+        "type":"eye",
+        "description":"Em pé,gire a cintura o máximo que puder para esquedar ,segure por 5 segundos,depois repita o movimento",
+        "amount":90
+    }
+]
